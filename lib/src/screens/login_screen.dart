@@ -35,7 +35,7 @@ class LoginScreenState extends State<LoginScreen> {
       keyboardType: TextInputType.emailAddress,
       textInputAction: TextInputAction.next,
       //validator: (){
-        
+
       //},
     );
   }
